@@ -104,7 +104,7 @@ class MyHomePage extends StatelessWidget {
                   Row(
                     children: [
                       buildIconBox(
-                          Icons.cake, Colors.redAccent, Colors.deepOrangeAccent!),
+                          Icons.cake, Colors.redAccent, Colors.deepOrangeAccent),
                       const SizedBox(width: 10),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -119,7 +119,7 @@ class MyHomePage extends StatelessWidget {
                   Row(
                     children: [
                       buildIconBox(
-                          Icons.location_on, Colors.orange, Colors.orangeAccent!),
+                          Icons.location_on, Colors.orange, Colors.orangeAccent),
                       const SizedBox(width: 10),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -134,7 +134,7 @@ class MyHomePage extends StatelessWidget {
                   Row(
                     children: [
                       buildIconBox(
-                          Icons.school, Colors.purple, Colors.purpleAccent!),
+                          Icons.school, Colors.purple, Colors.purpleAccent),
                       const SizedBox(width: 10),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
