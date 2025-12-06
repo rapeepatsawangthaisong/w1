@@ -171,7 +171,7 @@ Widget buildIconBox(IconData icon, Color iconColor, Color bgColor) {
   return Container(
     padding: const EdgeInsets.all(10),
     decoration: BoxDecoration(
-      color: bgColor.withOpacity(0.4),
+      color: bgColor.withValues(),
       borderRadius: BorderRadius.circular(8),
     ),
     child: Icon(
